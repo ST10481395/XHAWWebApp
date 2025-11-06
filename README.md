@@ -87,5 +87,26 @@ ETN_Website/
 - **PWA (Manifest + Icons)** – Optional installable app setup  
 
 ---
+Hope page
+
+<img width="567" height="751" alt="image" src="https://github.com/user-attachments/assets/155261a4-a61a-4f18-9aa7-b5da2510d4bf" />
+
+Courses
+
+<img width="552" height="748" alt="image" src="https://github.com/user-attachments/assets/ceab061c-0486-4426-8d06-f45e49c359f6" />
+
+<img width="852" height="733" alt="image" src="https://github.com/user-attachments/assets/1667052d-8dd9-4fcd-a6b0-26a8d1633657" />
+
+
+Calculate
+<img width="1325" height="797" alt="image" src="https://github.com/user-attachments/assets/844925bb-558a-458e-ad64-931d4fe23d49" />
+
+<img width="1150" height="786" alt="image" src="https://github.com/user-attachments/assets/cb5e7d71-e648-4efd-b08e-5f5d3713694e" />
+
+Contact
+<img width="1530" height="836" alt="image" src="https://github.com/user-attachments/assets/4dc3cd53-461e-4579-81cf-7b5f1eff3c83" />
+
+
+
 
 
